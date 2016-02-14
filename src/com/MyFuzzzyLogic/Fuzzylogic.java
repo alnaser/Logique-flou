@@ -5,10 +5,6 @@
  */
 package com.MyFuzzzyLogic;
 
-import java.io.File;
-import java.io.FileReader;
-import javafx.scene.shape.Path;
-import jdk.nashorn.internal.objects.NativeDebug;
 import net.sourceforge.jFuzzyLogic.FIS;
 import net.sourceforge.jFuzzyLogic.FunctionBlock;
 
