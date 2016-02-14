@@ -14,7 +14,7 @@ import net.sourceforge.jFuzzyLogic.FunctionBlock;
 
 /**
  *
- * @author alnaser
+ * @author alnaser's
  */
 public class Fuzzylogic {
 
