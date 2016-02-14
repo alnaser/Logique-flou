@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package fuzzylogic;
+package com.MyFuzzzyLogic;
 
 import java.io.File;
 import java.io.FileReader;
